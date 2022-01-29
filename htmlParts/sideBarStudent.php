@@ -36,9 +36,15 @@ $linkP = substr($link, strrpos($link,'/')+1);
                     </a>
                 </li>
                 <li class="<?php if($linkP=="invite.php") {echo "active";} ?>">
-                    <a href="invite.php">
+                    <a href="index.php">
                         <i class="material-icons">person_add</i>
-                        <span>Invites</span>
+                        <span>Upload Data</span>
+                    </a>
+                </li>
+                <li class="<?php if($linkP=="report.php") {echo "active";} ?>">
+                    <a href="report.php">
+                        <i class="material-icons">assessment</i>
+                        <span>My Report</span>
                     </a>
                 </li>
             </ul>
