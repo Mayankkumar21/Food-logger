@@ -49,24 +49,24 @@
                                        readonly>
                             </div>
                             <div class="col-md-2">
-                                <input type="text" class="knob" value="56" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#E91E63"
+                                <input type="text" class="knob" value="42" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#F44336"
                                        readonly>
                             </div>
                             <div class="col-md-2">
-                                <input type="text" class="knob" value="48" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#00BCD4"
+                                <input type="text" class="knob" value="42" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#F44336"
                                        readonly>
                             </div>
                             <div class="col-md-2">
-                                <input type="text" class="knob" value="65" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#009688"
+                                <input type="text" class="knob" value="42" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#F44336"
                                        readonly>
                             </div>
                             <div class="col-md-2">
-                                <input type="text" class="knob" value="72" data-width="140" data-height="140" data-thickness="0.20" data-fgColor="#FF9800"
-                                       data-skin="tron" readonly>
+                                <input type="text" class="knob" value="42" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#F44336"
+                                       readonly>
                             </div>
                             <div class="col-md-2">
-                                <input type="text" class="knob" value="18" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#9C27B0"
-                                       data-anglearc="250" data-angleoffset="-125" readonly>
+                                <input type="text" class="knob" value="42" data-width="125" data-height="125" data-thickness="0.25" data-fgColor="#F44336"
+                                       readonly>
                             </div>
                         </div>
                     </div>

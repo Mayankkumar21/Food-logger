@@ -1,6 +1,6 @@
 
 <!-- Top Bar -->
-<nav class="navbar" style="background-color: white;">
+<nav class="navbar" style="background-color: deeppink;">
     <div class="container-fluid">
         <div class="navbar-header">
             <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse"
